@@ -1,1 +1,5 @@
 Este es el navbar
+
+Este es el navbar*2
+mensaje de texto
+mensaje de texto
