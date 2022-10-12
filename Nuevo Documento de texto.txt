@@ -1,14 +1,3 @@
-Este es el navbar
-
-
-Hola como estas
-mehola
-mensaje de texto
-
-
-
-
-
 
 footer
 
