@@ -1,8 +1,8 @@
 Este es el navbar
 
 
-Este es el navbar*2
-mensaje de texto
+Hola como estas
+mehola
 mensaje de texto
 
 
