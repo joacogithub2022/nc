@@ -1,11 +1,9 @@
 Este es el navbar
 
-<<<<<<< HEAD
+
 Este es el navbar*2
 mensaje de texto
 mensaje de texto
-=======
-
 
 
 
@@ -13,4 +11,4 @@ mensaje de texto
 
 
 footer
->>>>>>> main
+
